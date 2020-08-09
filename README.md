@@ -1,6 +1,6 @@
 # Cublic Spline Interpolation
 
-Compute the coefficients for a series of equations that pass through a given set of points.
+Computes the coefficients for a series of equations that pass through a given set of points.
 Each equation corresponds to the equation of a line going between two.
 
 # Example Usage
